@@ -1,2 +1,2 @@
 # numpy-
-import numpy() to BRAIN
+Here you'll get some stuff related to the library function in numpy--->Python
